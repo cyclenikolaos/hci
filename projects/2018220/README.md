@@ -124,8 +124,11 @@
 #### [Σύνδεσμος του βιβλίου με τις τροποποιήσεις](https://cyclenikolaos.github.io/gr)
 #### 
 #### Σύνδεσμοι πρώτου παραδείγματος (SoundCloud Mini player with css record animation):
-#### [Σύνδεσμος αποθετηρίου SoundCloud Mini player] (https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/audio-player.md)
+#### [Αρχείο md πρώτου παραδείγματος](https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/audio-player.md)
 #### Link: https://codepen.io/p18lare/pen/vYENMxa
-#### Σύνδεσμοι δεύτερου παραδείγματος (Circular Navigation example):
-#### [Σύνδεσμος αποθετηρίου Circular Navigation example] (https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/menu-pie.md)
+#### Σύνδεσμοι δεύτερου παραδείγματος(Circular Navigation example):
+#### [Αρχείο md δεύτερου παραδείγματος](https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/menu-pie.md)
+#### Link: https://codepen.io/p18lare/pen/wvBKZzZ
+#### Σύνδεσμοι τρίτου παραδείγματος(Circular Navigation example):
+#### [Αρχείο md τρίτου παραδείγματος](https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/menu-pie.md)
 #### Link: https://codepen.io/p18lare/pen/wvBKZzZ
