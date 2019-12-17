@@ -3,6 +3,7 @@
 ### Ονοματεπώνυμο: Λαρεντζάκης Νικόλαος
 ### Αριθμός Μητρώου: Π2018220
 ### [Προφίλ στο github](https://github.com/cyclenikolaos)
+### [Αποθετήριό μου hci](https://github.com/cyclenikolaos/gr)
 
 
 # ΠΑΡΑΔΟΤΕΟ 1:
