@@ -52,27 +52,33 @@
 
 #### [Σύνδεσμος αποθετηρίου του μαθήματος gr](https://github.com/cyclenikolaos/gr)
 #### [Σύνδεσμος αποθετηρίου του αρχείου _config.yml](https://github.com/cyclenikolaos/gr/blob/gh-pages/_config.yml)
-#### Σύνδεσμοι 1ης φωτογραφίας:
+
+#### 1η φωτογραφία: "INDUSTRIAL COMPUTER"
+#### Σύνδεσμοι:
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/A7100.jpg
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/A7100-thumb.jpg
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/_gallery/A7100.md
 
-#### Σύνδεσμοι 2ης φωτογραφίας:
+#### 2η φωτογραφία: "HOME COMPUTERS"
+#### Σύνδεσμοι:
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/oric-atmos.jpg
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/oric-atmos-thumb.jpg
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/_gallery/oric-atmos.md
 
-#### Σύνδεσμοι 3ης φωτογραφίας:
+#### 3η φωτογραφία: "INDUSTRIAL COMPUTING"
+#### Σύνδεσμοι:
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/CAD-CAM.jpg
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/CAD-CAM-thumb.jpg
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/_gallery/CAD-CAM.md
 
-#### Σύνδεσμοι 4ης φωτογραφίας:
+#### 4η φωτογραφία: "SMARTPHONE FOR BLIND"
+#### Σύνδεσμοι:
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/smartphone-for-blind.jpg
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/smartphone-for-blind-thumb.jpg
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/_gallery/smartphone-for-blind.md
 
-#### Σύνδεσμοι 5ης φωτογραφίας:
+#### 5η φωτογραφία: "SELF DRIVING CAR"
+#### Σύνδεσμοι:
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car.jpg
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car-thumb.jpg
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car.md
