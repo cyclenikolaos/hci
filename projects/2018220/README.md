@@ -3,12 +3,11 @@
 ### Ονοματεπώνυμο: Λαρεντζάκης Νικόλαος
 ### Αριθμός Μητρώου: Π2018220
 ### [Προφίλ στο github](https://github.com/cyclenikolaos)
-### [Αποθετήριό μου hci](https://github.com/cyclenikolaos/gr)
+### [Σύνδεσμος αποθετηρίου του μαθήματος HCI](https://github.com/cyclenikolaos/hci)
 
 
 # ΠΑΡΑΔΟΤΕΟ 1:
 
-### [Σύνδεσμος αποθετηρίου του μαθήματος HCI](https://github.com/cyclenikolaos/hci)
 
 ## ΕΡΓΑΣΙΑ 1
 ### Εγκατάσταση του συστήματος linux και των απαραίτητων εργαλείων. Αλλαγή του command prompt και παρουσίαση του hardware και του software.
