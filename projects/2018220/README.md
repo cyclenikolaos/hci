@@ -121,12 +121,10 @@
 ### Δύο νέα διαδραστικά παραδείγματα τα οποία θα πρέπει να συνδέονται με βασικές έννοιες του βιβλίου και της διάδρασης ανθρώπου-υπολογιστή και να επιτρέπουν σε κάποιον 2ο χρήστη να τα αλλάξει ή/και να τα προσθέσει σε διαφορετικές εφαρμογές ως αρχέτυπα.
 
 #### [Σύνδεσμος αποθετηρίου του μαθήματος gr](https://github.com/cyclenikolaos/gr)
-#### [Σύνδεσμος του βιβλίου με τις τροποποιήσεις](https://cyclenikolaos.github.io/gr)
+#### [Σύνδεσμος εκτελέσιμου](https://cyclenikolaos.github.io/gr)
 #### 
 #### Σύνδεσμοι πρώτου παραδείγματος (SoundCloud Mini player with css record animation):
-#### [Αρχείο audio-player.md](https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/audio-player.md)
 #### [Link στο mibook του παραδείγματος audio-player](https://cyclenikolaos.github.io/gr/remix/audio-player/)
 #### Σύνδεσμοι δεύτερου παραδείγματος(Circular Navigation example):
-#### [Αρχείο menu-pie.md](https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/menu-pie.md)
 #### [Link στο mibook του παραδείγματος circular navigation example](https://cyclenikolaos.github.io/gr/remix/menu-pie/)
 
