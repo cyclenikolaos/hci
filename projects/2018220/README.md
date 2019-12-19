@@ -51,7 +51,7 @@
 ### Εισαγωγή πέντε νέων εικόνων με ελεύθερα πνευματικά δικαιώματα, με λεζάντα
 
 #### [Σύνδεσμος αποθετηρίου του μαθήματος gr](https://github.com/cyclenikolaos/gr)
-#### [Σύνδεσμος αποθετηρίου του αρχείου _config.yml](https://github.com/cyclenikolaos/gr/blob/gh-pages/_config.yml)
+#### [Σύνδεσμος εκτελέσιμου](https://cyclenikolaos.github.io/gr/)
 
 #### 1η φωτογραφία: "INDUSTRIAL COMPUTER"
 #### [Σύνδεσμος εκτελέσιμου INDUSTRIAL COMPUTER](https://cyclenikolaos.github.io/gr/gallery/A7100/)
