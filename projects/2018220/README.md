@@ -117,4 +117,4 @@
 #### [Link στο mibook του παραδείγματος circular navigation example](https://cyclenikolaos.github.io/gr/remix/menu-pie/)
 
 
-#### [FINAL REPORT](https://github.com/cyclenikolaos/FINAL_REPORT/edit/master/README.md)
+#### [FINAL REPORT](https://github.com/cyclenikolaos/FINAL_REPORT)
