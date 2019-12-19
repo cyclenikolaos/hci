@@ -125,8 +125,8 @@
 #### 
 #### Σύνδεσμοι πρώτου παραδείγματος (SoundCloud Mini player with css record animation):
 #### [Αρχείο audio-player.md](https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/audio-player.md)
-#### [Link στο codepen](https://codepen.io/p18lare/pen/vYENMxa)
+#### [Link στο mibook του παραδείγματος audio-player](https://cyclenikolaos.github.io/gr/remix/audio-player/)
 #### Σύνδεσμοι δεύτερου παραδείγματος(Circular Navigation example):
 #### [Αρχείο menu-pie.md](https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/menu-pie.md)
-#### [Link στο codepen](https://codepen.io/p18lare/pen/wvBKZzZ)
+#### [Link στο mibook του παραδείγματος circular navigation example](https://cyclenikolaos.github.io/gr/remix/menu-pie/)
 
