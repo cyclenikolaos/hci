@@ -54,34 +54,19 @@
 #### [Σύνδεσμος αποθετηρίου του αρχείου _config.yml](https://github.com/cyclenikolaos/gr/blob/gh-pages/_config.yml)
 
 #### 1η φωτογραφία: "INDUSTRIAL COMPUTER"
-#### Σύνδεσμοι:
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/A7100.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/A7100-thumb.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/_gallery/A7100.md
+#### [Σύνδεσμος εκτελέσιμου INDUSTRIAL COMPUTER](https://cyclenikolaos.github.io/gr/gallery/A7100/)
 
 #### 2η φωτογραφία: "HOME COMPUTERS"
-#### Σύνδεσμοι:
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/oric-atmos.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/oric-atmos-thumb.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/_gallery/oric-atmos.md
+#### [Σύνδεσμος εκτελέσιμου HOME COMPUTERS](https://cyclenikolaos.github.io/gr/gallery/oric-atmos/)
 
 #### 3η φωτογραφία: "INDUSTRIAL COMPUTING"
-#### Σύνδεσμοι:
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/CAD-CAM.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/CAD-CAM-thumb.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/_gallery/CAD-CAM.md
+#### [Σύνδεσμος εκτελέσιμου INDUSTRIAL COMPUTING](https://cyclenikolaos.github.io/gr/gallery/CAD-CAM/)
 
 #### 4η φωτογραφία: "SMARTPHONE FOR BLIND"
-#### Σύνδεσμοι:
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/smartphone-for-blind.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/smartphone-for-blind-thumb.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/_gallery/smartphone-for-blind.md
+#### [Σύνδεσμος εκτελέσιμου SMARTPHONE FOR BLIND](https://cyclenikolaos.github.io/gr/gallery/smartphone-for-blind/)
 
 #### 5η φωτογραφία: "SELF DRIVING CAR"
-#### Σύνδεσμοι:
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car-thumb.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car.md
+#### [Σύνδεσμος εκτελέσιμου SELF DRIVING CAR](https://cyclenikolaos.github.io/gr/gallery/google-self-driving-car/)
 
 
 # ΠΑΡΑΔΟΤΕΟ 2:
