@@ -123,11 +123,10 @@
 #### [Σύνδεσμος αποθετηρίου του μαθήματος gr](https://github.com/cyclenikolaos/gr)
 #### [Σύνδεσμος εκτελέσιμου](https://cyclenikolaos.github.io/gr)
 
-### Πρώτο παράδειγμα:
-#### SoundCloud Mini player with css record animation
-#### Εισαγωγή του κωδικού του συγκεκριμένου μουσικού κομματιού από το JS του codepen
-#### Σύνδεσμοι πρώτου παραδείγματος (SoundCloud Mini player with css record animation):
-#### [Link στο mibook του παραδείγματος audio-player](https://cyclenikolaos.github.io/gr/remix/audio-player/)
+### Πρώτο παράδειγμα: SoundCloud Mini player with css record animation
+#### [Σύνδεσμος αποθετηρίου Audio Player](https://github.com/mibook/gr/blob/gh-pages/_remix/audio-player.md)
+#### [Link στο mibook του παραδείγματος Audio-player](https://cyclenikolaos.github.io/gr/remix/audio-player/)
+
 ### Δεύτερο παράδειγμα:
 #### Τροποποίηση του κώδικα CSS και HTML για αλλαγές στη μορφή του κυκλικού μενού
 #### Σύνδεσμοι δεύτερου παραδείγματος(Circular Navigation example):
