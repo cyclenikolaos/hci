@@ -127,8 +127,7 @@
 #### [Σύνδεσμος αποθετηρίου Audio Player](https://github.com/mibook/gr/blob/gh-pages/_remix/audio-player.md)
 #### [Link στο mibook του παραδείγματος Audio-player](https://cyclenikolaos.github.io/gr/remix/audio-player/)
 
-### Δεύτερο παράδειγμα:
-#### Τροποποίηση του κώδικα CSS και HTML για αλλαγές στη μορφή του κυκλικού μενού
-#### Σύνδεσμοι δεύτερου παραδείγματος(Circular Navigation example):
+### Δεύτερο παράδειγμα Menu-pie:
+#### [Σύνδεσμος αποθετηρίου Menu-pie](https://cyclenikolaos.github.io/gr/remix/menu-pie/)
 #### [Link στο mibook του παραδείγματος circular navigation example](https://cyclenikolaos.github.io/gr/remix/menu-pie/)
 
